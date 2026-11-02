@@ -1,0 +1,100 @@
+{
+  "results": {
+    "total_num_results": 126711,
+    "total_num_pages": 3,
+    "many_results": false,
+    "num_page": 0,
+    "cluster": [
+      {
+        "result": [
+          {
+            "id": "patent/JP7200378B2/en",
+            "rank": 0,
+            "patent": {
+              "title": " <b>LIDAR</b> receiver with multiple detectors to reduce range ambiguity",
+              "snippet": " wherein said first and second detectors are arranged on a single detector chip; 2. The <b>lidar</b> system of claim 1 &hellip;",
+              "priority_date": "2018-12-05",
+              "filing_date": "2019-12-04",
+              "grant_date": "2023-01-06",
+              "publication_date": "2023-01-06",
+              "inventor": "ディー． ガアレマ，スティーブン",
+              "assignee": "ルミナー，エルエルシー",
+              "publication_number": "JP7200378B2",
+              "language": "en",
+              "thumbnail": "f4/36/e1/f45dfbfe084307/0007200378000002.png",
+              "pdf": "8d/e5/aa/f00a30486f4ce5/JP7200378B2.pdf",
+              "figures": [
+                {"thumbnail": "fb/44/18/430d42ace11f17/0007200378000002.png", "full": "b8/1e/f7/837dea93172008/0007200378000002.png"},
+                {"thumbnail": "b2/48/db/73acc44efb159b/0007200378000003.png", "full": "dd/5e/93/97776323749399/0007200378000003.png"}
+              ],
+              "family_metadata": {
+                "aggregated": {
+                  "country_status": [
+                    {"country_code": "WO", "best_patent_stage": {"state": "NOT_ACTIVE"}},
+                    {"country_code": "US", "best_patent_stage": {"state": "ACTIVE"}}
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "patent/US20240183952A1/en",
+            "rank": 1,
+            "patent": {
+              "title": "Multi-channel synchronous acquisition system for bathymetry <b>lidar</b>",
+              "snippet": "A bathymetry <b>LiDAR</b> &amp; storage system",
+              "priority_date": "2022-12-04",
+              "filing_date": "2023-12-04",
+              "publication_date": "2024-06-06",
+              "inventor": "Guoqing Zhou",
+              "assignee": "<b>Guilin</b> University Of Technology",
+              "publication_number": "US20240183952A1",
+              "language": "en"
+            }
+          },
+          {
+            "id": "patent/US9285464B2/en",
+            "rank": 2,
+            "patent": {
+              "title": "Devices and methods for a rotating <b>LIDAR</b> platform",
+              "priority_date": "2013-08-20",
+              "filing_date": "2014-08-18",
+              "grant_date": "2016-03-15",
+              "publication_date": "2016-03-15",
+              "inventor": "Gaetan Pennecot",
+              "assignee": "Google LLC",
+              "publication_number": "US9285464B2",
+              "language": "en"
+            }
+          }
+        ]
+      }
+    ],
+    "chem_exhausted": false,
+    "summary": {
+      "assignee": [
+        {"key": "Total", "value": 1000, "frequency": [{"key": "2022-2025", "value": 358}, {"key": "2019-2022", "value": 602}]},
+        {"key": "Waymo Llc", "value": 54, "frequency": [{"key": "2022-2025", "value": 35}, {"key": "2019-2022", "value": 18}]},
+        {"key": "Nvidia Corporation", "value": 37, "frequency": [{"key": "2022-2025", "value": 25}]},
+        {"key": "Waymo LLC", "value": 9, "frequency": [{"key": "2022-2025", "value": 4}, {"key": "2019-2022", "value": 5}]}
+      ],
+      "inventor": [
+        {"key": "Total", "value": 1000},
+        {"key": "Pierre-Yves Droz", "value": 26},
+        {"key": "Droz Pierre-Yves", "value": 12},
+        {"key": "Jason M. Eichenholz", "value": 16}
+      ],
+      "cpc": [
+        {"key": "Total", "value": 1000},
+        {"key": "G01S", "value": 810},
+        {"key": "G06T", "value": 273}
+      ]
+    },
+    "landscape": {
+      "related_landscapes": [
+        {"name": "Engineering &amp; Computer Science", "landscape_type": "AREA"},
+        {"name": "Physics & Mathematics", "landscape_type": "AREA"}
+      ]
+    }
+  }
+}
